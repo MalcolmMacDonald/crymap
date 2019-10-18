@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Complete",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "#1 - What we called it", "description": "% rating" }, "geometry": { "type": "Point", "coordinates": [ -122.8966834, 49.2506898 ] } },
+{ "type": "Feature", "properties": { "Name": "#2", "description": "% rating" }, "geometry": { "type": "Point", "coordinates": [ -122.8934097, 49.2521937 ] } },
+{ "type": "Feature", "properties": { "Name": "#3", "description": "% rating" }, "geometry": { "type": "Point", "coordinates": [ -122.893577, 49.24854 ] } },
+{ "type": "Feature", "properties": { "Name": "#4 ?", "description": "%Rating" }, "geometry": { "type": "Point", "coordinates": [ -122.912689, 49.2035172 ] } },
+{ "type": "Feature", "properties": { "Name": "#5?", "description": "% rating" }, "geometry": { "type": "Point", "coordinates": [ -122.9130209, 49.201481 ] } },
+{ "type": "Feature", "properties": { "Name": "#5.5? (Gas station fail)", "description": "% rating" }, "geometry": { "type": "Point", "coordinates": [ -122.9232199, 49.2111651 ] } },
+{ "type": "Feature", "properties": { "Name": "#6", "description": "% rating" }, "geometry": { "type": "Point", "coordinates": [ -122.9198214, 49.2124153 ] } },
+{ "type": "Feature", "properties": { "Name": "#7", "description": "% rating" }, "geometry": { "type": "Point", "coordinates": [ -122.9241885, 49.2155108 ] } },
+{ "type": "Feature", "properties": { "Name": "#8", "description": "% rating" }, "geometry": { "type": "Point", "coordinates": [ -122.9278, 49.2193655 ] } }
+]
+}
